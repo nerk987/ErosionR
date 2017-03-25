@@ -1,5 +1,5 @@
 # ErosionR
-Blender Addon for simulated erosion
+Blender Addon for simulated erosion based on Erosion addon by VarkenVarken
 
 For anyone wanting to try the ErosionR version, I suggest the following steps..
 
